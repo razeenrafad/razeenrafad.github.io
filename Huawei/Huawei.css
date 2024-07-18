@@ -1,0 +1,437 @@
+body
+{
+height:500vh;
+padding:none;
+margin:0px;
+}
+
+
+
+.navbar ul{
+	position:absolute;
+	left:0;
+	list-style-type:none;
+	background-color:black;
+	color:white;
+	padding-left:1200px;
+	width:225px;
+	margin-top:0px;
+	height:25px;
+	color:grey;
+	padding-right:0px;
+}
+
+
+.navbar li{
+	display:inline-block;
+	padding-top:2px;
+}
+	
+
+.navbar li a{
+    padding-right:10px;}
+.navbar{
+ font-family:Arial,Helvetica,sans serifa;} 
+
+
+
+ /*NAVBAR-2*/
+.navbar2 ul{
+    list-style-type:none;
+    text-align:center;
+    padding-right:85px;
+    padding-top:20px;  }
+
+
+.navbar2 li {
+   display:inline-block;
+ }
+
+
+.navbar2 li a{
+   padding-right:40px;} 
+
+
+ /*LOGO*/
+.logo{
+   position:absolute;
+   top:48px;
+   padding-left:50px; }
+
+
+
+/*BG_IMAGE1*/
+.backgroundimage{
+   padding-top:10px;
+
+}
+.button1
+{
+   background-color:#ff0000;
+   color:white;
+   margin-left:880px;
+   position:absolute;
+   top:420px;
+   border:none;
+   padding-left:20px;
+   padding-bottom:10px;
+   padding-right:20px;
+   padding-top:10px;
+}
+.whatsnew{
+	font-weight:800;
+	font-size:40px;
+	text-align: center;
+   font-family:Arial,Helvetica,sans serifa;
+}
+
+.whatsnew::after{
+    content:' ';
+    height:2px;
+    width:10%;
+    background:#f24;
+    position:absolute;
+    right:630px;
+    top:720px;
+}
+.Product1
+  {
+  padding-left:90px ;
+  margin-top: 50px;
+  }
+
+.Product2
+{
+ position:absolute;
+top:797px;
+left:980px;
+}
+.Product3
+{
+   padding-left:90px;
+
+}
+.Product4
+{
+margin-left: 505px;
+position:absolute;
+top:1228px;}
+
+.Product5
+{
+   padding-left:88px;
+}
+.Product6
+{
+   position:absolute;
+   left:507px;
+   top:1675px;
+}
+.Product7
+{
+   position: absolute;
+  padding-left: 920px;
+  top:1670px;
+}
+
+.button2
+{
+   background-color:#ff0000;
+   color:white;
+   left:270px;
+   position:absolute;
+   top:2300px;
+   border:none;
+   padding-left:20px;
+   padding-bottom:10px;
+   padding-right:20px;
+   padding-top:10px;
+}
+
+
+
+
+/*NEWS SECTION*/
+
+/*NEWS SECTION1*/
+.News{
+   font-weight:800;
+   font-size:40px;
+   text-align: center;
+   padding-top: 40px;
+   font-family:Arial,Helvetica,sans serifa;
+}
+.News::after{
+    content:' ';
+    height:2px;
+    width:5%;
+    background:#f24;
+    position:absolute;
+    right:680px;
+    top:2693px;}
+.news1
+{
+    padding-left:120px;
+    padding-top:30px;
+}
+.bg1
+{ position:absolute;
+
+   background-color:#f0f0f0;
+   width:28%;
+   margin-left:120px;
+   margin-top: 0px;
+}
+.n1 h4
+{
+    padding-left: 40px;
+     font-family:Arial,Helvetica,sans serifa;
+}
+.n1 p{
+   padding-left:35px;
+    font-family:Arial,Helvetica,sans serifa;
+
+}
+.ph1{
+   padding-left:5px;
+    font-family:Arial,Helvetica,sans serifa;
+    color:#808080;
+}
+.a
+{
+   margin-right:13px;
+}
+.news1,.n1 h4
+{
+   margin-bottom:0px;
+}
+/*BUTTON*/
+.bn1{
+   font-family:Arial,Helvetica,sans serifa;
+   background-color:#999999;
+  position:absolute;
+  top:2777px;
+  left:122px;
+  color:white;
+  width:80px;
+  padding-top:7px;
+  padding-bottom:7px;
+  border:none;
+}
+
+
+
+
+/*NEWS SECTION2*/
+
+.news2
+{   
+   position:absolute;
+   top:2775px;
+    padding-left:570px;
+    margin-top:0px;
+}
+.bg2
+{ position:absolute;
+
+   background-color:#f0f0f0;
+   width:28%;
+   margin-left:570px;
+   margin-top: 0px;
+}
+.n2 h4
+{
+    padding-left: 35px;
+     font-family:Arial,Helvetica,sans serifa;
+}
+.n2 p{
+   padding-top:0px;
+   padding-left:35px;
+    font-family:Arial,Helvetica,sans serifa;
+
+}
+.ph2{
+   padding-left:5px;
+    font-family:Arial,Helvetica,sans serifa;
+    color:#808080;
+}
+.b
+{
+   margin-right:13px;
+}
+.news2,.n2 h4
+{
+   margin-bottom:0px;
+}
+/*BUTTON*/
+.bn2{
+   font-family:Arial,Helvetica,sans serifa;
+   background-color:#999999;
+  position:absolute;
+  top:2775px;
+  left:1035px;
+  color:white;
+  width:80px;
+  padding-top:7px;
+  padding-bottom:7px;
+  border:none;
+  
+}
+
+
+
+/*NEWS SECTION3*/
+
+
+/*.bg3*/
+
+/*.bg3
+{ 
+   background-color:#f0f0f0;
+   width:28%;
+   margin-left:0px;
+   margin-top: 0px;
+}*/
+.mh1
+{   position:absolute;
+   top:2790px;
+    padding-left: 1035px;
+     font-family:Arial,Helvetica,sans serifa;
+     font-weight:600;
+}
+
+.ph3{
+   position:absolute;
+   top:2884px;
+   padding-left:1039px;
+    font-family:Arial,Helvetica,sans serifa;
+    color:#808080;
+}
+
+/*BUTTON*/
+.bn3{
+   font-family:Arial,Helvetica,sans serifa;
+   background-color:#999999;
+  position:absolute;
+  top:2775px;
+  left:570px;
+  color:white;
+  width:80px;
+  padding-top:7px;
+  padding-bottom:7px;
+  border:none;
+  z-index:10;
+}
+
+
+.mh2
+{   position:absolute;
+   top:2940px;
+    padding-left: 1035px;
+     font-family:Arial,Helvetica,sans serifa;
+     font-weight:600;
+}
+
+.ph4{
+   position:absolute;
+   top:3038px;
+   padding-left:1039px;
+    font-family:Arial,Helvetica,sans serifa;
+    color:#808080;
+}
+
+.mh3
+{   position:absolute;
+   top:3090px;
+    padding-left: 1035px;
+     font-family:Arial,Helvetica,sans serifa;
+     font-weight:600;
+}
+
+.ph5{
+   position:absolute;
+   top:3188px;
+   padding-left:1039px;
+    font-family:Arial,Helvetica,sans serifa;
+    color:#808080;
+}
+.lastbutton1
+{  
+   background-color: white;
+   padding-left: 45px;
+   padding-right:45px;
+   padding-top:12px;
+   padding-bottom:12px;
+   margin-right:25px;
+   margin-left:525px;
+   color:#707070;
+   border:2px solid #808080;
+}
+.lastbutton2
+{
+   background-color: white;
+    padding-left: 45px;
+   padding-right:45px;
+   padding-top:12px;
+   padding-bottom:12px;
+   color:#707070;
+    border:2px solid #808080;
+}
+
+.lastbg
+{
+background-color:#f0f0f0;
+height:550px;
+}
+
+.lastbg p
+{
+   padding-left:150px;
+}
+.lastbg::after{
+   position:absolute;
+    content:' ';
+    height:2px;
+    width:5%;
+    background:#f24;
+    position:absolute;
+    right:680px;
+    top:2693px;}
+.search
+{
+
+margin-left:1050px;
+font-size:45px;
+
+}
+
+input[type="text"]
+{
+   padding-top:27px;
+   padding-down:27px;
+    padding-left:35px;
+   padding-right:35px;
+}
+
+table
+{
+    border-collapse:separate;
+    border-spacing:90px 15px;
+    color:#808080;;
+}
+.hw
+{
+   padding-left:10px;
+}
+footer
+{
+   padding-top: 0px;
+   padding-left:400px;
+   background-color:#e0e0e0;
+   height:50px;
+   color:#808080;
+}
+th
+{
+color:black;
+}
